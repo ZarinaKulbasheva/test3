@@ -1,0 +1,32 @@
+body {
+    background-color: gray;
+
+}
+
+.container {
+    background-color: antiquewhite;
+padding: 30px;
+border-radius: 20px;
+display: flex;
+flex-direction: column;
+align-items: center;
+
+}
+
+.box {
+
+    width: 80px;
+    height: 80px;
+    background-color: blue;
+
+}
+
+p {
+    font-size: 14px;
+}
+
+button {
+    width: 120px;
+    height: 40px;
+    border-radius: 20px;
+}
