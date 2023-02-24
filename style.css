@@ -1,5 +1,5 @@
-body {
-    background-color: gray;
+main {
+    background-color: rgb(218, 55, 55);
 
 }
 
@@ -17,7 +17,7 @@ align-items: center;
 
     width: 80px;
     height: 80px;
-    background-color: blue;
+    background-color: rgb(74, 190, 28);
 
 }
 
@@ -30,3 +30,5 @@ button {
     height: 40px;
     border-radius: 20px;
 }
+
+
